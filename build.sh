@@ -14,3 +14,4 @@ rm qli-Client-1.9.6-Linux-x64.tar.gz;
 mv appsettings.json.mb appsettings.json;
 chmod +x squbic
 cp ./squbic ~
+cd $HOME
