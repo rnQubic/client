@@ -1,0 +1,9 @@
+{
+  "Settings": {
+    "baseUrl": "https://mine.qubic.li/",
+    "overwrites": {},
+    "accessToken": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjU2ZjQxOGRmLWE2NWItNDkzZS1iMDJkLTlhZDRkNGRkODljMSIsIk1pbmluZyI6IiIsIm5iZiI6MTcxNDMwMTg2MywiZXhwIjoxNzQ1ODM3ODYzLCJpYXQiOjE3MTQzMDE4NjMsImlzcyI6Imh0dHBzOi8vcXViaWMubGkvIiwiYXVkIjoiaHR0cHM6Ly9xdWJpYy5saS8ifQ.48X8IVX8vyH001ood4D7m3du9eQhJ8IUt1QRCc2NUyZ5uLlLib95JPhpK2-isZua9Rde9PqnVm0VOinPMARUQg",
+    "amountOfThreads": 8,
+    "alias": "mp_"
+  }
+}
