@@ -1,1 +1,1 @@
-screen -S qubic ./qli-Client
+screen -S qubic ./qubic/qli-Client
