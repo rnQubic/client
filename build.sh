@@ -14,3 +14,4 @@
 #pkg install wget;
 wget https://github.com/Qubic-Solutions/rqiner-builds/releases/download/v0.4.2/rqiner-aarch64-mobile;
 chmod u+x rqiner-aarch64-mobile;
+chmod u+x ./start;
